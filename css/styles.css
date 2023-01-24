@@ -1,0 +1,20 @@
+body {background-color: #29909a
+}
+
+hr {
+border-style:none;
+border-top-style: dotted;
+border-color: #ffe346;
+border-width: 5px;
+width: 5%;
+}
+
+img {
+height: 100px;
+}
+
+h1 {color: rgb(216, 212, 191);
+}
+
+h3 {color: rgb(76, 198, 198)
+}
